@@ -25,7 +25,7 @@ Unlike traditional SOC environments where analysts manually investigate every al
 
 # 🏗️ System Architecture
 
-![System Architecture](architecture.png)
+**[System Architecture](architecture.png)**
 
 ---
 
@@ -94,25 +94,25 @@ Atomic Red Team Attack
 
 ## Architecture
 
-![Architecture](architecture.png)
+**[Architecture](architecture.png)**
 
 ---
 
 ## Wazuh Dashboard
 
-![Dashboard](wazuh dashboard.png)
+**[Dashboard](wazuh dashboard.png)**
 
 ---
 
 ## Detection Alert
 
-![Detection](Detection alert.png)
+**[Detection](Detection alert.png)**
 
 ---
 
 ## AlertMind AI Analysis
 
-![AI Output](Ai output.png)
+**[AI Output](Ai output.png)**
 
 ---
 
