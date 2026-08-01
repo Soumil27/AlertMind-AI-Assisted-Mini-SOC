@@ -25,7 +25,7 @@ Unlike traditional SOC environments where analysts manually investigate every al
 
 # 🏗️ System Architecture
 
-![System Architecture](screenshots/architecture.png)
+![System Architecture](architecture.png)
 
 ---
 
@@ -94,25 +94,25 @@ Atomic Red Team Attack
 
 ## Architecture
 
-![Architecture](screenshots/architecture.png)
+![Architecture](architecture.png)
 
 ---
 
 ## Wazuh Dashboard
 
-![Dashboard](screenshots/wazuh-dashboard.png)
+![Dashboard](wazuh dashboard.png)
 
 ---
 
 ## Detection Alert
 
-![Detection](screenshots/detection-alert.png)
+![Detection](Detection alert.png)
 
 ---
 
 ## AlertMind AI Analysis
 
-![AI Output](screenshots/alertmind-ai-output.png)
+![AI Output](Ai output.png)
 
 ---
 
@@ -150,8 +150,8 @@ python app.py alerts/powershell.json
 
 # 📄 Documentation
 
-- 📘 **[View IEEE Capstone Report](report/AlertMind_Final_Report.pdf)**
-- 📊 **[View Project Presentation](presentation/AlertMind_Presentation.pptx)**
+- 📘 **[View IEEE Capstone Report](Final Report.pdf)**
+- 📊 **[View Project Presentation](AlertMind_Capstone_Presentation.pptx)**
 
 ---
 
